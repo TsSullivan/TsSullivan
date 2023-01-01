@@ -27,7 +27,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.JS">
     <img src="https://skillicons.dev/icons?i=react" title="React.JS">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspiberry Pi">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi">
   </p>
 </div>
 
