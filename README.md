@@ -14,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=php" title="PHP">
     <img src="https://skillicons.dev/icons?i=python" title="Python">
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=git" title="GIT">
     <img src="https://skillicons.dev/icons?i=c" title="C">
     <img src="https://skillicons.dev/icons?i=cs" title="C++">
     <img src="https://skillicons.dev/icons?i=cpp" title="C#">
