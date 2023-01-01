@@ -43,6 +43,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code">
     <img src="https://skillicons.dev/icons?i=github" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma">
     <img src="https://skillicons.dev/icons?i=git" title="GIT">
   </p>
 </div>
