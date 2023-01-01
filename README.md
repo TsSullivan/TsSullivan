@@ -28,7 +28,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.JS">
     <img src="https://skillicons.dev/icons?i=react" title="React.JS">
-    <img src="https://skillicons.dev/icons?i=raspberry" title="Raspiberry Pi">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspiberry Pi">
   </p>
 </div>
 
@@ -42,7 +42,7 @@
 <div align="center">
   <h1>Ferramentas</h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio COde">
+    <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code">
     <img src="https://skillicons.dev/icons?i=github" title="GitHub">
     <img src="https://skillicons.dev/icons?i=git" title="GIT">
   </p>
