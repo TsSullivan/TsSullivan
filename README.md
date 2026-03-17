@@ -8,17 +8,9 @@
 <div align="center">
   <h1>Linguagens e frameworks</h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML">
-    <img src="https://skillicons.dev/icons?i=css" title="CSS">
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=php" title="PHP">
     <img src="https://skillicons.dev/icons?i=python" title="Python">
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
     <img src="https://skillicons.dev/icons?i=c" title="C">
     <img src="https://skillicons.dev/icons?i=cpp" title="C++">
-    <img src="https://skillicons.dev/icons?i=cs" title="C#">
-    <img src="https://skillicons.dev/icons?i=laravel" title="Laravel">
-    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
   </p>
 </div>
 
@@ -27,7 +19,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.JS">
     <img src="https://skillicons.dev/icons?i=react" title="React.JS">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
   </p>
 </div>
 
