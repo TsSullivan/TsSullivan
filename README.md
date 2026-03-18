@@ -27,6 +27,7 @@
   <h1>Robótica</h1>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=arduino" title="Arduíno">
+    <img src="https://skillicons.dev/icons?i=matlab" title="Matlab">
   </p>
 </div>
 
